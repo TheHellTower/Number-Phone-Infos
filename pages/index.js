@@ -1,6 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import { useState, useEffect } from "react";
+import Link from "next/link";
 
 export default function Home() {
   const [phoneNumber, setPhoneNumber] = useState("");
@@ -100,6 +101,13 @@ export default function Home() {
                   </p>
                 )}
               </div>
+              <br />
+              <Link href={"https://github.com/TheHellTower/Number-Phone-Infos"}>
+                GitHub Repository{" "}
+              </Link>
+              <Link href={"https://www.youtube.com/shorts/0gVSDp-QY3s"}>
+                YouTube Short{" "}
+              </Link>
             </div>
           </div>
         </div>
