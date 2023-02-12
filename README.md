@@ -6,7 +6,8 @@ It give a few basics info about a number using [phone-number-api.com](phone-numb
 
 ## 🎥 Preview
 
-[Click here for a preview](https://www.youtube.com/shorts/0gVSDp-QY3s)
+[Click Here For A Preview](https://www.youtube.com/shorts/0gVSDp-QY3s)
+![[](https://www.youtube.com/shorts/0gVSDp-QY3s)](https://i.imgur.com/GUNhPkF.png)
 
 ## 🌟 Stars
 
